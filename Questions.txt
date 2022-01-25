@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
 
+.map iterates through an array much like a for loop.
+
 Explain what the ".reduce" properties of arrays does.
+
+.reduce iterates through an array but allows specific portions of the array to be stored in an accumulator.
 
 How is ".map" different from reduce?
 
+.map will have output something for each item in the array (i.e. if there are 6 items, there will be at least 6 outputs) while .reduce can be set to only output items that meet a specific criteria.
+
 What are "switch" statements?
+
+switch statements are similar to if statements, basically a use "case" is setup with switches representing the if statement and breaks to exit out of the loop if said criteria is reached before it finishes going through the rest of the switches.
